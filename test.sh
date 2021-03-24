@@ -5,3 +5,5 @@ cal
 date
 
 echo "bye"
+
+echo "see you soon"
