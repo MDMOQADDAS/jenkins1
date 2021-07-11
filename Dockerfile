@@ -9,4 +9,4 @@ COPY salary.h5 /
 
 COPY code.py /
 
-CMD ["python3" "code.py"]
+CMD python3  code.py
